@@ -31,3 +31,11 @@ GPTs/
 ├── MediFind.md          # MediFind 기능 설명 및 링크
 └── StoryQuestRPG.md     # StoryQuest RPG 기능 설명 및 링크
 ```
+
+---
+
+## 📄 문서 링크
+- [MediFind 설명서](MediFind.md)  
+- [StoryQuest RPG 설명서](StoryQuestRPG.md)  
+
+---
